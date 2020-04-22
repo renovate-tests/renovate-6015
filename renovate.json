@@ -1,5 +1,4 @@
 {
   "baseBranches": ["master", "develop", "production"],
-  "pinDigests": "true",
-  "pin": "true"
+  "pinDigests": "true"
 }
