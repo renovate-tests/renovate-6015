@@ -1,4 +1,7 @@
 {
+  "assignees": [
+      "schuch"
+  ],
   "baseBranches": ["master", "develop", "production"],
   "pinDigests": "true"
 }
