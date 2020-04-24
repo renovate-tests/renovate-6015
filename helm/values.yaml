@@ -1,0 +1,8 @@
+---
+application:
+  replicaCount: 1
+
+  image:
+    repository: nginx
+    tag: 1.16.1
+    pullPolicy: IfNotPresent
