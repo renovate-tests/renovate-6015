@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "8.2.0",
-    "mongoose": "5.9.10"
+    "mongoose": "5.9.14"
   }
 }
